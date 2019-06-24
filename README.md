@@ -1,2 +1,2 @@
 # AcGame
-Acfun合作游戏。
+平台：Unity3D
